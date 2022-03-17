@@ -1,0 +1,39 @@
+Tras configurar el dominio y añadir un cliente, aprenderemos a eliminar
+
+Panel de Control -> Herramientas administrativas -> Usuarios y equipos de Active Directory
+
+Dentro de lo anterior, podemos ver en la carpeta Computers los ordenadores. Users puede añadir usuarios para el servicio de directorio (PD: sshd es un usuario
+que gestiona el servicio). Administradores de dominio.
+
+Añadir usuario creado a Administradores del dominio, para modificar propiedades.
+
+Get-ADuser: ver usuarios del dominio
+
+DistinghisedName: Diferencia a un objeto en un dominio y su estructura.
+
+SID: Identifica a los usuarios.
+
+SamAccountName: cómo se almacena en pruebagui
+
+Get-LocalUser
+
+Get-LocalGroup
+
+New-ADUser -Name asir01 -CannotChangePassword $true -AccountPassword (ConvertTo-SecureString "qwerty1!" -AsPlainText -Force) -Enabled $true
+
+Get-ADUser -Filter ' Name -eq "asir1" '
+
+Set-ADAccountPassword -Identity asir01 -NewPassword (ConvertTo-SecureString "passw0rd!" -AsPlainText -Force) -PassThru
+
+Get-ADUser -Filter * | Where-Object {$_.Name -like "asir01"} | Select-Object Name,SID | Format-List
+
+Disable-ADAccount -Identity asir01
+
+Enable-ADAccount -Identity asir01
+
+Get-ADGroupMember -Identity "Usuarios del dominio"
+
+Add-ADGroupMember -Identity "Admins. del dominio" -Members asir01
+
+Remove-ADGroupMember -Identity "Admins. del dominio" -Members asir01
+
