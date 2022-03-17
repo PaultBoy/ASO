@@ -1,0 +1,203 @@
+Nombre;Extensión;Población;Densidad;Altitud
+Sabiñánigo;586.8;9254;17.6;780
+Blecua y Torres;36.2;182;5.9;450
+Monesma y Cajigar;62.6;77;1.6;1024
+Alcolea de Cinca;83.2;1104;13.7;186
+Berbegal;49;357;8.5;512
+Altorricón;32.4;1420;46;265
+Senés de Alcubierre;20.5;42;3.1;391
+Huerto;86.7;218;3.1;370
+Castillazuelo;15.3;174;12.9;368
+Sariñena;275.6;4155;16;281
+Tramaced;15.4;107;6.4;419
+Almunia de San Juan;35.7;665;18.5;349
+Ibieca;14.9;100;7.3;640
+San Miguel del Cinca;106.5;816;8;235
+Alcalá del Obispo;47.8;332;8.6;526
+Zaidín;92.6;1772;18.2;155
+Albalate de Cinca;44.2;1120;28.5;188
+Albero Bajo;22.2;138;4.9;411
+Abiego;38.2;246;7.3;539
+Loporzano;169.3;522;3.3;581
+Villanúa;58.2;450;8.8;953
+Biscarrués;30.2;192;7.4;471
+Santa María de Dulcis;27.2;213;8.1;520
+Barbuñales;18.7;94;5.4;468
+Castejón de Sos;31.8;738;24.4;904
+Olvena;15.9;48;3.5;522
+Agüero;94.2;139;1.7;696
+Tierz;6.5;754;110;467
+Salas Altas;20.7;303;15;513
+Alquézar;32.4;304;9.3;660
+Tella-Sin;90.3;231;3;770
+Piracés;25.2;104;4.1;453
+Bielsa;202.4;473;2.4;1023
+Almuniente;37.6;486;14.6;337
+Bonansa;37.3;79;2.7;1256
+Lascuarre;31.9;133;4.9;648
+Peralta de Alcofea;116.1;576;5.3;402
+Castelflorite;34.8;112;3.7;310
+Castejón de Monegros;165.3;326;3.9;466
+El Pueyo de Araguás;62.1;152;2.4;699
+Viacamp y Litera;107.7;35;0.4;860
+Naval;47.3;270;5.5;637
+Alcalá de Gurrea;71.4;267;3.9;461
+Vencillón;10.4;392;44.9;210
+Belver de Cinca;82.6;1281;16.6;196
+Alberuela de Tubo;20.8;310;17.1;350
+Barbués;19.6;81;4.9;361
+Fago;28.8;27;1;888
+Ballobar;127.7;830;7.6;153
+Gurrea de Gállego;192;1483;8.6;341
+Camporrells;26.7;134;6.8;620
+Arguis;62.8;122;1.9;1042
+Laspaúles;81.6;244;3.7;1431
+Puértolas;100;210;2.3;1160
+Peñalba;156.7;662;4.9;253
+Torres de Alcanadre;17.6;93;6.2;389
+Caldearenas;192.3;228;1.2;640
+Chalamera;11.5;111;10.6;194
+Castigaleu;26.5;87;4.3;836
+Huesca;161;52223;325.7;488
+Adahuesca;52.5;172;3.3;616
+Borau;41.7;81;2;1008
+Azara;14.5;180;13.8;429
+Loarre;74.4;332;5;772
+Almudévar;201.5;2444;12.7;425
+Ayerbe;63.9;1071;17.6;582
+Jasa;8.9;94;12.7;944
+Las Peñas de Riglos;217.9;255;1.2;678
+Labuerda;17.8;157;9.5;569
+Montanuy;174.1;220;1.6;1205
+Torrente de Cinca;56.8;1132;23.5;109
+Bailo;164.4;284;1.8;717
+Alerre;8.9;200;24.9;505
+Arén;119.3;320;3;709
+Jaca;406.3;12889;32.7;818
+Valle de Lierp;32.8;48;2;1015
+Albero Alto;19.3;114;6.9;442
+Loscorrales;40.2;100;2.7;621
+Lascellas-Ponzano;27.3;128;5.4;486
+Baldellou;30.4;82;3.9;469
+Casbas de Huesca;132.7;279;2.3;560
+Sena;104.7;481;5.2;221
+Puente la Reina de Jaca;48.1;263;6;690
+Colungo;40.6;118;3.5;609
+Campo;22.9;343;15.3;691
+Pozán de Vero;14.8;214;16.3;408
+Torre la Ribera;32.1;103;3.7;1085
+Ontiñena;137;537;4.4;215
+Tolva;59;127;2.7;696
+Gistaín;75.9;142;2;1422
+Lanaja;183.7;1179;7.5;369
+Albalatillo;9.1;187;26;259
+Torralba de Aragón;40.4;114;2.6;403
+Albelda;51.9;839;16.2;361
+Ansó;223.1;411;2.1;860
+La Sotonera;165.5;932;6.3;539
+Valle de Bardají;45.5;35;1.1;820
+Abizanda;44.8;156;3.1;636
+Binéfar;25.1;9391;377.8;386
+Candasnos;122.4;315;3.2;292
+Fiscal;170.1;323;1.9;768
+Secastilla;47.4;150;3.3;612
+Broto;128;552;4.2;905
+Robres;64.3;561;9.4;404
+Salillas;28.3;101;3.7;426
+Yésero;30.2;56;2.3;1132
+Siétamo;49;681;13.4;559
+Chimillas;10;389;35.8;520
+Benasque;233.6;2121;9.6;1138
+Salas Bajas;12.9;171;10.9;460
+Bisaurri;62.9;180;3.3;1108
+Torres de Barbués;13.9;272;21.7;350
+Graus;299.8;3334;12.3;500
+Barbastro;107.6;16907;158.8;341
+Grañén;124;1748;16;340
+Monflorite-Lascasas;29.2;379;10.8;436
+Argavieso;9.7;100;12.2;481
+Banastás;4.7;295;60.2;532
+Bierge;145;242;1.8;602
+Castiello de Jaca;17.3;244;14.9;921
+Baells;39.8;103;2.9;618
+Sallent de Gállego;162.1;1444;9.4;1305
+Canal de Berdún;133.3;343;2.9;688
+Lupiñén-Ortilla;110.1;335;3.5;469
+Peralta de Calasanz;114.9;221;2.1;523
+Laluenga;36.5;210;5.9;479
+Velilla de Cinca;16.5;448;27.2;125
+Fanlo;187.1;102;0.7;1342
+Santa Cilia;28.1;229;7.4;649
+Chía;26.1;87;3.9;1221
+Isábena;118.5;261;2.6;907
+La Fueva;218.8;608;2.9;630
+Laperdiguera;11.3;91;9;462
+Perarrúa;30.1;112;3.7;513
+Aísa;81;331;4.7;1043
+Azanuy-Alins;51.2;173;3.5;456
+Sesa;30.8;175;6.8;437
+Angüés;56.5;360;7.8;543
+Poleñino;33;205;6.8;296
+Quicena;9.7;283;29.9;476
+Antillón;22.4;154;6.5;513
+Torla;185.2;299;1.8;1033
+Canfranc;71.6;542;8.7;1195
+Bárcabo;87.9;107;1.4;713
+Aragüés del Puerto;64.4;114;2.1;970
+Osso de Cinca;27.7;691;27.7;164
+Valfarta;33.2;66;2.7;372
+Capella;60.7;358;6.1;526
+Capdesaso;17.7;163;9.9;313
+Laspuña;45.3;281;6.6;709
+Aínsa-Sobrarbe;284.8;2128;7.8;569
+Lalueza;88.2;943;12.3;284
+Ilche;63.7;213;3.7;325
+Estadilla;46.8;814;18.2;450
+Sangarrén;32.2;220;7.2;379
+Fonz;55.5;902;18.4;471
+Beranuy;63.8;77;1.6;995
+El Grado;63.8;422;7.6;467
+Pertusa;29.4;114;4;375
+Villanueva de Sigena;146.4;405;3.3;231
+Sesué;5.2;126;25.2;996
+Estopiñán del Castillo;88.7;132;2;730
+Valle de Hecho;234.4;852;4;833
+Puente de Montañana;48.6;96;2.9;540
+Esplús;73;581;9;281
+Castillonroy;37.6;321;10.1;454
+Seira;69.2;143;2.2;810
+Santaliestra y San Quílez;23.3;87;4.2;570
+Azlor;15.9;143;8.4;510
+Fraga;437.6;15024;33;120
+Villanova;6.9;164;22.8;982
+Palo;14.4;26;2;720
+Alfántega;8.8;135;14.8;210
+Estada;15.9;202;14.7;382
+Plan;92.5;287;3.5;1100
+Biescas;189.1;1480;8.4;880
+Alcubierre;115.3;377;3.8;466
+Pueyo de Santa Cruz;9.3;255;39.9;246
+Boltaña;139.5;941;7.6;640
+Nueno;147.2;537;3.8;726
+Panticosa;95.9;795;8.6;1184
+Hoz y Costeán;57.5;221;3.6;725
+Igriés;19.2;686;34.7;605
+Tardienta;90.6;973;11;389
+San Juan de Plan;55.8;142;2.8;1121
+Monzón;155;17166;111.1;279
+La Puebla de Castro;29.4;361;14.1;649
+Hoz de Jaca;12.5;76;5.6;1272
+Benabarre;157.1;1110;7.5;788
+Santa Cruz de la Serós;27;177;7;788
+San Esteban de Litera;71.9;485;7.1;471
+Vicién;13.8;121;8.6;394
+Yebra de Basa;90.9;147;1.7;880
+Sahún;72.9;305;4.7;1124
+Novales;20.1;155;8.7;464
+Peraltilla;16.2;200;13.1;429
+Alcampell;58;671;13.1;499
+Foradada de Toscar;106.4;178;2;980
+Binaced;78.5;1524;18.9;279
+Castejón del Puente;25.4;528;14.6;382
+Tamarite de Litera;110.6;3507;33.6;357
+Sopeira;44.1;96;2.7;720
